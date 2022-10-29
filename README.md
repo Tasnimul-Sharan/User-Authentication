@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# User-Authentication
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Url : [https://authentication-575e7.web.app/](https://authentication-575e7.web.app/).
 
-## Available Scripts
+## Complete Authentication and Authorization
 
-In the project directory, you can run:
+* Sign In with email and password and Google and Facebook Sign In.
+* Sign Up with email password and confirm password.
+* Forget password.
+* JWT token.
+
+
+
+
 
 ### `npm start`
 
